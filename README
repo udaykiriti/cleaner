@@ -1,6 +1,5 @@
 SYSTEM CLEANER
 ==============
-
 System Cleaner is a lightweight Linux cleanup utility.
 
 It can clean:
@@ -11,12 +10,10 @@ It can clean:
 
 BUILD
 -----
-
     make
 
 RUN
 ---
-
     ./system-cleaner
 
 Run as root for full system cleanup.
@@ -24,5 +21,4 @@ Run as a normal user for limited cleanup.
 
 LICENSE
 -------
-
 GPLv3
